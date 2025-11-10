@@ -1,0 +1,9 @@
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\bin\Release\The_Quest.exe
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\bin\Release\The_Quest.pdb
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\obj\x86\Release\The_Quest.Form1.resources
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\obj\x86\Release\The_Quest.Properties.Resources.resources
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\obj\x86\Release\The_Quest.exe
+c:\users\wzqn2h\visual studio 2010\Projects\The_Quest\The_Quest\obj\x86\Release\The_Quest.pdb
